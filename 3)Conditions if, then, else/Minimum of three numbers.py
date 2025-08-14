@@ -1,4 +1,4 @@
-# 
+# Given three integers, print the smallest value.
 
 num_1 = int(input())
 num_2 = int(input())
